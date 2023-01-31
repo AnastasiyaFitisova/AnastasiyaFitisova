@@ -12,9 +12,5 @@
 
 ### Стек:
 
--HTML5;
--CSS3;
--JS;
--React;
--git
+HTML5; CSS3; JS; React; git
 
