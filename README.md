@@ -1,16 +1,20 @@
-### Hi there 👋
+### Привет, я Анастасия 👋
 
-<!--
-**AnastasiyaFitisova/AnastasiyaFitisova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- :thumbsup: Закончила курс "Веб разработчик" от Яндекс.Практикум;
+- :muscle: Хочу прокачать навыки верстки и разработки в реальных проектах;
+- :metal: Не боюсь сложностей;
+- :punch: Готова учиться у опытных разработчиков
+
+
+### Стек:
+
+-HTML5;
+-CSS3;
+-JS;
+-React;
+-git
+
